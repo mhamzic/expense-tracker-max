@@ -2,7 +2,7 @@
 
 ## Description
 
-Simple expense tracker which enables user to track some expenses in period. 
+Simple expense tracker which enables user to track some expenses in some time period. 
 
 ### Features
 
